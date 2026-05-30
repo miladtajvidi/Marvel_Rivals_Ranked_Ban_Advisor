@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./MR_ban.png" alt="Description of image" width="500" height="600">
+  <img src="./MR_ban.jfif" alt="Description of image" width="500" height="600">
 </p>
 
 # Marvel Rivals Ban Helper
